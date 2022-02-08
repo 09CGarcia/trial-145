@@ -1,0 +1,13 @@
+Mini Activity
+
+<Practice creating a server>
+
+	1. In your batch folder, create a folder named s34-39 (note: not individual folders)
+	2. Initialize npm
+	3. Install the following dependencies: express, nodemon, mongoose and cors
+	4. Create index.js and .gitignore file
+	5. In .gitignore, insert node_modules
+	6. In package.json, make a start script
+	7. In index.js, create an express server that connects to port 4000
+	8. Connect your server to MongoDB
+	9. Send a screenshot of your running terminal in our batch hangouts
